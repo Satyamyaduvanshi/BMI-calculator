@@ -1,0 +1,96 @@
+#H1{
+    margin-left: 100px;
+    margin-top: 80px;
+    margin-right: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#h2{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+#h2 input{
+    border-radius: 5px;
+    border: 2px solid blue;
+    font-size: 19px;
+    width: 200px;
+    padding: 10px;
+}
+.button{
+    background-color:black;
+    color: white;
+    width: 200px;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 430px;
+}
+.button:hover{
+    background-color: rgb(39, 38, 38);
+}
+.button:active{
+    background-color: green;
+}
+
+
+.lastmsg{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+#results{
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.name-container{
+    margin-left: 75px;
+    margin-top: 50px ;
+    text-align: center;
+}
+.name-container h1{
+    color: green;
+}
+
+.last-container{
+    text-align: center;
+    margin-top: 75px;
+    margin-right: 75px;
+}
+
+.github{
+    border: 2px solid black;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+.github:active{
+    background-color: black;
+    color: white;
+}
+.x{
+    border: 2px solid black;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+.x:active{
+    background-color: black;
+    color: white;
+}
+
+.flexdiv{
+    display: flex;
+    justify-content: space-around;
+}
